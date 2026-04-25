@@ -71,7 +71,7 @@ Deployed OnRailway (Live)
 Fully open source
 
 
-Made with  by InnovateSwarm
+Made with love by InnovateSwarm
 Website | MCP Page | Original Templates
 Star the repo if you find it useful! 
 
