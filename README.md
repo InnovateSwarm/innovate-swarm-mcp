@@ -57,6 +57,7 @@ innovate-swarm-mcp/
 ```bash
 git clone https://github.com/InnovateSwarm/innovate-swarm-mcp.git
 cd innovate-swarm-mcp
+````
 
 # Install dependencies
 uv sync
