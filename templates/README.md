@@ -6,26 +6,21 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 
 ## 📋 Available Instruction Pages
 
-### 🦈 [Swarm Tank](./swarm-tank)
-Shark Tank-style multi-agent investor pitch simulation. Great for stress-testing startup ideas with tough, realistic feedback and negotiation.
 
-### 🚀 [Idea Rescue](./idea-rescue)
-A 5-phase system that transforms weak, vague, or struggling ideas into profitable, differentiated, and launch-ready winners.
+## Available Templates
 
-### ⚡ [Idea Factory](./idea-factory)
-Rapidly generates, evolves, critiques, and ranks dozens of high-quality ideas from a single seed.
+| Command                          | Description |
+|----------------------------------|-----------|
+| `@swarm://templates`             | List all available templates |
+| `@swarm://cross-pollination-engine` | **🌐** Combine ideas across unrelated domains |
+| `@swarm://future-backcasting`    | **🔮** Work backwards from a successful future |
+| `@swarm://idea-factory`          | **⚡** Rapid idea generation + ranking |
+| `@swarm://idea-rescue`           | **🚀** Rescue and strengthen weak ideas |
+| `@swarm://innovation-critique`   | **🛡️** Rigorous red-team critique |
+| `@swarm://mve`                   | **🧪** Design Minimal Viable Experiments |
+| `@swarm://refresh-perspective`   | **🔄** Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias. |
+| `@swarm://swarm-tank`            | **🦈** Shark Tank-style investor pitch simulation |
 
-### 🌐 [Cross-Pollination Engine](./cross-pollination-engine)
-Generates breakthrough ideas by combining your core concept with completely unrelated domains.
-
-### 🧪 [Minimal Viable Experiment (MVE)](./mve)
-Designs the smallest, fastest, and cheapest real-world experiments to validate key assumptions before building.
-
-### 🔮 [Future Backcasting](./future-backcasting)
-Starts from a desired future outcome and works backwards to create realistic roadmaps and actionable steps.
-
-### 🛡️ [Innovation Critique](./innovation-critique)
-A rigorous multi-agent red team that pressure-tests ideas with brutal honesty and constructive feedback.
 
 ## How to Use
 
