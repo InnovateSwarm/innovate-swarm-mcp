@@ -1,0 +1,36 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary / log files
+*.log
+*.tmp
+*.temp
+
+# Node / build artifacts (in case you ever add a website later)
+node_modules/
+dist/
+build/
+
+# Optional: Large files or screenshots you don't want to track yet
+*.png
+*.jpg
+*.jpeg
+*.gif
+<<<<<<< HEAD
+# (Remove the lines above if you DO want to commit images)
+=======
+# (Remove the lines above if you DO want to commit images)
+>>>>>>> 754337a132fe0aaf21de5d05213ed01c41a48d1f
