@@ -18,7 +18,7 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 | `@swarm://idea-rescue`           | **🚀** Rescue and strengthen weak ideas |
 | `@swarm://innovation-critique`   | **🛡️** Rigorous red-team critique |
 | `@swarm://mve`                   | **🧪** Design Minimal Viable Experiments |
-| `@swarm://refresh-perspective`   | **🔄** Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias. |
+| `@swarm://refresh-perspective` | **🔄** Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias and temporal drift. |
 | `@swarm://swarm-tank`            | **🦈** Shark Tank-style investor pitch simulation |
 
 
@@ -33,6 +33,6 @@ All instructions are **open source** and free to use, modify, fork, or integrate
 
 ---
 
-**Made with ❤️ by [InnovateSwarm](https://innovateswarm.com)**
+**Made with love by [InnovateSwarm](https://innovateswarm.com)**
 
 This prompt system is open source under the [MIT License](../LICENSE).
