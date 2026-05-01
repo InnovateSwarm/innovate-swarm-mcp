@@ -28,14 +28,18 @@ https://fastmcptemplate-production-1014.up.railway.app/mcp
 | Command | Description |
 |---------|-------------|
 | `@swarm://templates` | List all available templates |
-| `@swarm://idea-rescue` | Rescue and strengthen weak ideas |
-| `@swarm://idea-factory` | Rapid idea generation + ranking |
-| `@swarm://iterative-innovation` | Cycles of innovation |
-| `@swarm://swarm-tank` | Shark Tank-style investor pitch simulation |
+| `@swarm://agent-safety` | Stabilized environment for agent to agent interaction |
+| `@swarm://brain-agent` | Executive brain for management and delegation of a specialized agent system |
 | `@swarm://cross-pollination-engine` | Combine ideas across unrelated domains |
-| `@swarm://mve` | Design Minimal Viable Experiments |
-| `@swarm://future-backcasting` | Work backwards from a successful future |
+| `@swarm://idea-factory` | Rapid idea generation + ranking |
+| `@swarm://idea-rescue` | Rescue and strengthen weak ideas |
 | `@swarm://innovation-critique` | Rigorous red-team critique |
+| `@swarm://iterative-innovation` | Cycles of innovation |
+| `@swarm://future-backcasting` | Work backwards from a successful future |
+| `@swarm://mve` | Design Minimal Viable Experiments |
+| `@swarm://swarm-tank` | Shark Tank-style investor pitch simulation |
+| `@swarm://refresh-perspective` | Shark Tank-style investor pitch simulation |
+
 
 ---
 

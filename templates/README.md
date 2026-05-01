@@ -12,11 +12,13 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 | Command                          | Description |
 |----------------------------------|-----------|
 | `@swarm://templates`             | List all available templates |
+| `@swarm://agent-safety`          | **🛡️👥** Agent to agent stabilization |
+| `@swarm://brain-agent`           | **🧠** Delegates and manages specialized agents |
 | `@swarm://cross-pollination-engine` | **🌐** Combine ideas across unrelated domains |
 | `@swarm://future-backcasting`    | **🔮** Work backwards from a successful future |
 | `@swarm://idea-factory`          | **⚡** Rapid idea generation + ranking |
 | `@swarm://idea-rescue`           | **🚀** Rescue and strengthen weak ideas |
-| `@swarm://innovation-critique`   | **🛡️** Rigorous red-team critique |
+| `@swarm://innovation-critique`   | **⚔️** Rigorous red-team critique |
 | `@swarm://iterative-innovation`  | **🔄✨** Cycles of innovation |
 | `@swarm://mve`                   | **🧪** Design Minimal Viable Experiments |
 | `@swarm://refresh-perspective` | **🔄** Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias and temporal drift. |
