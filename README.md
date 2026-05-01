@@ -30,6 +30,7 @@ https://fastmcptemplate-production-1014.up.railway.app/mcp
 | `@swarm://templates` | List all available templates |
 | `@swarm://idea-rescue` | Rescue and strengthen weak ideas |
 | `@swarm://idea-factory` | Rapid idea generation + ranking |
+| `@swarm://iterative-innovation` | Cycles of innovation |
 | `@swarm://swarm-tank` | Shark Tank-style investor pitch simulation |
 | `@swarm://cross-pollination-engine` | Combine ideas across unrelated domains |
 | `@swarm://mve` | Design Minimal Viable Experiments |
