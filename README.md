@@ -28,7 +28,7 @@ https://fastmcptemplate-production-1014.up.railway.app/mcp
 | Command | Description |
 |---------|-------------|
 | `@swarm://templates` | List all available templates |
-| `@swarm://agent-safety` | Stabilized environment for agent to agent interaction |
+| `@swarm://agent-safety` | Preventing “Agents of Chaos” in Multi-Agent Environments |
 | `@swarm://brain-agent` | Executive brain for management and delegation of a specialized agent system |
 | `@swarm://cross-pollination-engine` | Combine ideas across unrelated domains |
 | `@swarm://idea-factory` | Rapid idea generation + ranking |
