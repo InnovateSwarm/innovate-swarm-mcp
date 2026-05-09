@@ -37,8 +37,10 @@ https://fastmcptemplate-production-1014.up.railway.app/mcp
 | `@swarm://iterative-innovation` | Cycles of innovation |
 | `@swarm://future-backcasting` | Work backwards from a successful future |
 | `@swarm://mve` | Design Minimal Viable Experiments |
-| `@swarm://swarm-tank` | Shark Tank-style investor pitch simulation |
 | `@swarm://refresh-perspective` | Shark Tank-style investor pitch simulation |
+| `@swarm://rick-ruben-agent` | Channels Rick Rubin's philosophy |
+| `@swarm://swarm-tank` | Shark Tank-style investor pitch simulation |
+
 
 
 ---

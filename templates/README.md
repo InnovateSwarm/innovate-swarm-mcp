@@ -22,6 +22,7 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 | `@swarm://iterative-innovation`  | **🔄✨** Cycles of innovation |
 | `@swarm://mve`                   | **🧪** Design Minimal Viable Experiments |
 | `@swarm://refresh-perspective` | **🔄** Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias and temporal drift. |
+| `@swarm://rick-ruben-agent`      | **🌱** Channels Rick Rubin's philosophy |
 | `@swarm://swarm-tank`            | **🦈** Shark Tank-style investor pitch simulation |
 
 
