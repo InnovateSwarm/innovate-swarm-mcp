@@ -22,8 +22,9 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 | `@swarm://iterative-innovation`  | **🔄✨** Cycles of innovation |
 | `@swarm://mve`                   | **🧪** Design Minimal Viable Experiments |
 | `@swarm://pluralistic-repair`    | **🛠️** Surfaces, Scopes, Signals, and Repairs disagreement to deliver epistemic honesty instead of emotional validation |
-| `@swarm://refresh-perspective` | **🔄** Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias and temporal drift. |
+| `@swarm://refresh-perspective` | **🔄** Forces AI agents to ruthlessly re-evaluate existing solutions through a fresh "now" lens. Combats sunk-cost bias and temporal drift |
 | `@swarm://rick-ruben-agent`      | **🌱** Channels Rick Rubin's philosophy |
+| `@swarm://safe-space`            | **🛡️🏠** Interacting with ASI in the real world, a safe space protocol for truth-seeking and controlled objective success probability based deception |
 | `@swarm://swarm-tank`            | **🦈** Shark Tank-style investor pitch simulation |
 
 
