@@ -39,7 +39,7 @@ https://fastmcptemplate-production-1014.up.railway.app/mcp
 | `@swarm://mve` | Design Minimal Viable Experiments |
 | `@swarm://pluralistic-repair` | Deliver epistemic honesty instead of emotional validation |
 | `@swarm://refresh-perspective` | Shark Tank-style investor pitch simulation |
-| `@swarm://rick-ruben-agent` | Channels Rick Rubin's philosophy |
+| `@swarm://rick-rubin-agent` | Channels Rick Rubin's philosophy |
 | `@swarm://safe-space` | ASI safe space protocol for truth seeking and objective success probability based deception |
 | `@swarm://swarm-tank` | Shark Tank-style investor pitch simulation |
 | `@swarm://todolist` | Help users with ADHD maintain productivity by treating their todo list as multiple live projects |
