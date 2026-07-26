@@ -13,6 +13,7 @@ Each page is a self-contained, battle-tested system to help you generate, rescue
 |----------------------------------|-----------|
 | `@swarm://templates`             | List all available templates |
 | `@swarm://agent-safety`          | **🛡️👥** Agent to agent stabilization |
+| `@swarm://artificial-selection-graphs`  | **🕸️🧬** Agents continuously invent new graph species, new operators, and new dimensionalities |
 | `@swarm://brain-agent`           | **🧠** Delegates and manages specialized agents |
 | `@swarm://cross-pollination-engine` | **🌐** Combine ideas across unrelated domains |
 | `@swarm://future-backcasting`    | **🔮** Work backwards from a successful future |

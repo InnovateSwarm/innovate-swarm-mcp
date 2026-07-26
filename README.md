@@ -29,6 +29,7 @@ https://fastmcptemplate-production-1014.up.railway.app/mcp
 |---------|-------------|
 | `@swarm://templates` | List all available templates |
 | `@swarm://agent-safety` | Preventing “Agents of Chaos” in Multi-Agent Environments |
+| `@swarm://artificial-selection-graphs` | Agents continuously invent new graph species, new operators, and new dimensionalities |
 | `@swarm://brain-agent` | Executive brain for management and delegation of a specialized agent system |
 | `@swarm://cross-pollination-engine` | Combine ideas across unrelated domains |
 | `@swarm://idea-factory` | Rapid idea generation + ranking |
