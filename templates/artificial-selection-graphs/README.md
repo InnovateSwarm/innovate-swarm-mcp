@@ -17,7 +17,7 @@ Current graph ecosystem is trapped in three linear prisons:
 
 **The missing layer:** A native *generative* and *evolutionary* interface where agents continuously invent new graph species, new operators, and new dimensionalities that did not exist five minutes ago.
 
-GraphForge is that missing layer.
+Artificial Selection Graphs Protocol is that missing layer.
 
 ---
 
@@ -40,7 +40,7 @@ GraphForge is that missing layer.
 
 ---
 
-### 3. Core Operators (The GraphForge Vocabulary)
+### 3. Core Operators (The Artificial Selection Graphs Protocol Vocabulary)
 
 Agents must invent new operators freely, but the following seed operators are required:
 
